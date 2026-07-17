@@ -1,26 +1,18 @@
-## Aman Ashirmatov
+# Aman Ashirmatov
 
-**AI/ML engineer** building **LLM, RAG and computer-vision** systems — currently applied to
-digital healthcare at the Republican Center for Electronic Healthcare. CUHK-Shenzhen.
+I'm an AI engineer and undergraduate at CUHK-Shenzhen. I currently work on medical assistants and RAG systems for Kazakhstan's eHealth ecosystem.
 
-[LinkedIn](https://www.linkedin.com/in/aman-ashirmatov-bbb6702aa/) · [Telegram](https://t.me/Speelfe1) · ✉️ <your-professional-email>
+## Selected work
 
----
+- **NPA Assistant** *(private internship project)* — a citation-grounded RAG assistant over 15 Kazakhstan healthcare regulations, with confidence-based refusal and 2,293 indexed passages.
+- **[Russian Sign-Language Translator](https://github.com/splf-jojo/AITU_thesis)** — an MViTv2 computer-vision project; hackathon finalist, two-month incubator, and graduation thesis.
 
-### Selected work
+## Technologies
 
-**[aie1902 — privacy-safe CV & stats research toolkit](https://github.com/splf-jojo/aie1902-public)** · `Python · CLIP · PyTorch`
-Zero-shot image classification (CLIP) plus a statistical-analysis pipeline, built with a strict
-privacy boundary — no raw data, credentials, or PII ever committed.
+- **AI:** PyTorch, LangGraph, RAG, CLIP, PaddleOCR
+- **Backend:** Python, FastAPI, Node.js, Express
+- **Frontend:** React, Angular, TypeScript, Tailwind CSS
+- **Databases:** PostgreSQL, Qdrant, pgvector
+- **Infrastructure:** Docker Compose, Linux, Git
 
-**doctorAI — clinical LLM assistant** · `LLM · RAG · FastAPI` · [demo](<link>) · [code](<make-public-or-remove>)
-<One line: who it helps and what it does.> <Impact: e.g. answers X clinical question, cut Y time by Z%.>
-
-**knowledge_lake_v2 — RAG over <domain> documents** · `RAG · <vector-db> · <embeddings>` · [demo](<link>)
-<One line: what corpus, what question it answers.> <Impact: retrieval / faithfulness metric.>
-
----
-
-**Stack** — Python · PyTorch · FastAPI · LLM/RAG · Computer Vision · React/Angular · Node.js
-
-📫 **Open to AI/ML engineer roles** (<remote / relocation — regions>). Best reached on [LinkedIn](https://www.linkedin.com/in/aman-ashirmatov-bbb6702aa/).
+[LinkedIn](https://www.linkedin.com/in/aman-ashirmatov-bbb6702aa/) · [Email](mailto:amanashirmatov@link.cuhk.edu.cn) · [Telegram](https://t.me/Speelfe1)
